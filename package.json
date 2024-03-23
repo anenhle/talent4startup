@@ -1,0 +1,14 @@
+{
+  "name": "talent4startups",
+  "version": "1.0.0",
+  "description": "e-commerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
